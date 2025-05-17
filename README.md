@@ -43,10 +43,15 @@ This project focuses on designing a smart greenhouse monitoring system using ESP
 
 ## **Screenshots**
 
-![Serial Monitor Output](https://github.com/your-username/greenhouse-monitoring-system/assets/serial_monitor_example.png)  
-![ThingSpeak Dashboard](https://github.com/your-username/greenhouse-monitoring-system/assets/thingspeak_dashboard.png)  
+![Block Diagram](https://github.com/user-attachments/assets/bf955680-4710-4e68-b25a-1909272fa349)
 
-> *(Replace with your actual GitHub image URLs or upload via GitHub Issues/Discussions if needed.)*
+![Circuit Image](https://github.com/user-attachments/assets/2bc7e395-0b2f-4c92-8452-e5e319f23d73)
+
+![Prototype](https://github.com/user-attachments/assets/3061169c-d98a-46fb-a5ca-65b4bcc6767e)
+
+![ThingSpeak Dashboard](https://github.com/user-attachments/assets/1ea066e1-cf12-4832-8955-fe4cc98a661d)
+
+![](https://github.com/user-attachments/assets/606ce007-8df4-4037-bb8d-d0c5575ac585)
 
 ---
 
