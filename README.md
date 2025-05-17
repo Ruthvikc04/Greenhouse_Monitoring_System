@@ -60,7 +60,3 @@ This project focuses on designing a smart greenhouse monitoring system using ESP
 - Appreciation to my teammates for hands-on collaboration and brainstorming.  
 - Thanks to the creators of libraries and open-source tools used in this project.
 
----
-
-## **License**  
-This project is licensed under the [MIT License](LICENSE).
